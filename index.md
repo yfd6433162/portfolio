@@ -33,9 +33,9 @@ feature_row:
 
 **yfd6433162** - R&D Engineer specializing in Hyperspectral Imaging and FPGA Design
 
-- 🔬 8+ years of spectroscopy experience
+- 🔬 10+ years of spectroscopy experience
 - 📸 5+ years of hyperspectral imaging (Python, TensorFlow, PyTorch)
-- 🔧 5+ years of FPGA design (Intel FPGA, Verilog/VHDL, HLS)
+- 🔧 5+ years of FPGA design (Intel FPGA, Verilog, HLS)
 - 📚 Technical book author (100+ copies sold)
 - 🌍 Currently on overseas assignment in Germany
 
