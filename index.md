@@ -4,12 +4,11 @@ title: "はじめてのSoC FPGA"
 header:
   overlay_color: "#667eea"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.jpg
   actions:
     - label: "購入する"
       url: "https://booth.pm/ja/items/1577936"
     - label: "詳しく見る"
-      url: "/portfolio/book/"
+      url: "/book/"
 excerpt: "Intel FPGAで学ぶ画像処理実装の実践ガイド<br/>**100冊以上販売**"
 
 feature_row:

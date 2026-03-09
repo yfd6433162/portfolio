@@ -1,0 +1,13 @@
+main:
+  - title: "📗 技術書 (JP)"
+    url: /book/
+  - title: "📘 Book (EN)"
+    url: /book-en/
+  - title: "🔬 Projects"
+    url: /projects/
+  - title: "📝 Blog"
+    url: /blog/
+  - title: "👤 About"
+    url: /about/
+  - title: "🌐 English"
+    url: /en/
